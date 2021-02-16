@@ -1,6 +1,0 @@
-inicia e escreve
-$ git init
-git config --global user.name "Alex Arraes"
-git config --global user.email "alex-junior1@hotmail.com"
-git status      //sabe qual os itens que faltam sincronizar
-git add .       // adiciona todos os arquivos para serem rastreado e sincronizados
